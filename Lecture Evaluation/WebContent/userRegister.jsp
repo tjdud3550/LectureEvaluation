@@ -114,7 +114,6 @@
 
     <footer class="bg-dark mt-4 p-5 text-center" style="color: #FFFFFF;">
 
-      Copyright ⓒ 2018 나동빈 All Rights Reserved.
 
     </footer>
 
@@ -135,5 +134,3 @@
 </html>
 
 
-
-출처: https://ndb796.tistory.com/37?category=986634 [안경잡이개발자]
